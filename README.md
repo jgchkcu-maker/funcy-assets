@@ -37,8 +37,6 @@
 Ссылки на файлы:
 
 - [Каталог](https://raw.githubusercontent.com/jgchkcu-maker/funcy-assets/main/index.json)
-- [Ghoul Ink](https://raw.githubusercontent.com/jgchkcu-maker/funcy-assets/main/wallpapers/ghoul-ink.webp)
-- [White Ghoul](https://raw.githubusercontent.com/jgchkcu-maker/funcy-assets/main/wallpapers/white-ghoul.webp)
 
 Все файлы в этом репозитории публичны. Размещайте только материалы, которые можно публиковать.
 
@@ -52,4 +50,4 @@
 
 ## Готовые темы
 
-В каталоге: Ghoul Ink, White Ghoul, Gargantua, Underwater, Winter Forest, Fog, Clouds и The Tree. У всех скругление 16 px и выключенные декоративные круги. Новые темы имеют собственные цвета акцента, текста, ссылок, стеклянных блоков и полосы прокрутки.
+В каталоге: Gargantua, Underwater, Winter Forest, Fog, Clouds и The Tree. У всех скругление 16 px и выключенные декоративные круги. Новые темы имеют собственные цвета акцента, текста, ссылок, стеклянных блоков и полосы прокрутки.
